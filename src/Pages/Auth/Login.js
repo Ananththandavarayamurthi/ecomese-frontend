@@ -110,9 +110,15 @@ const Login = () => {
               Sign in
             </Button>
           </form>
+          <p>Credential</P>
+        
           <div>ADMIN:admin@gmail.com
             PASWWORD:admin@123
           </div>
+           <div>user:mani@gmail.com
+            PASWWORD:mani@123
+          </div>
+</P>  
           <Typography className="text-center p-2">
             <Link to="/forgot-password">Forgot password ?</Link>
           </Typography>
