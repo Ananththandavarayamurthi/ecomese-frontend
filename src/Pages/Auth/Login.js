@@ -115,8 +115,8 @@ const Login = () => {
           <div>ADMIN:admin@gmail.com
             PASWWORD:admin@123
           </div>
-           <div>user:mani@gmail.com
-            PASWWORD:mani@123
+           <div>user:sakthi@gmail.com
+            PASWWORD:sakthi@123
           </div>
             </p>  
           <Typography className="text-center p-2">
