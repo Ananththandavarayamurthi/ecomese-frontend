@@ -110,7 +110,7 @@ const Login = () => {
               Sign in
             </Button>
           </form>
-          <p>Credential</P>
+          <p>Credential
         
           <div>ADMIN:admin@gmail.com
             PASWWORD:admin@123
